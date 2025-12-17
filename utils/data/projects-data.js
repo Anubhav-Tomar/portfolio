@@ -1,0 +1,42 @@
+export const projectsData = [
+    {
+        id: 1,
+        name: 'Truthelens - AI Fake News Detector',
+        description: "Truthelens is an AI-powered fake news detection tool that analyzes news articles and online content to identify misinformation, bias, and unreliable sources. It provides clear credibility insights, helping users make informed decisions and trust what they read before sharing it.",
+        tools: ['Next.js', 'React', 'TypeScript', 'Tailwind CSS', 'OpenAI API', 'Gemini API', 'Stripe', 'Clerk'],
+        code: 'https://github.com/Anubhav-Tomar/TruthLens',
+        demo: 'https://truth-lens-rouge.vercel.app',
+        role: '',
+        image: '/image/projects/truthelens.png',
+    },
+    {
+        id: 2,
+        name: 'TokenFund – Decentralized Blockchain Crowdfunding Platform',
+        description: 'TokenFund is a blockchain-based crowdfunding platform that enables creators and projects to raise funds by accepting contributions in token form. Built with decentralization and transparency in mind, TokenFund lets project owners launch campaigns with clear goals and deadlines, and supporters back them using ERC-20 tokens. If a campaign reaches its funding target, the collected tokens are released to the creator; if not, contributors can get refunds—ensuring trust and fairness for both sides.',
+        tools: ['NextJS', 'React', 'TypeScript', 'Tailwind CSS', "Ethereum", "Solidity", "Smart Contracts", "Node.js"],
+        code: 'https://github.com/Anubhav-Tomar/TokenFund-Web3',
+        demo: 'https://tokenfund.vercel.app',
+        role: '',
+        image: '/image/projects/tokenfund.png', 
+    },
+    {
+        id: 3,
+        name: 'Wanderlust – Travel & Accommodation Listings Platform',
+        description: 'Wanderlust is a web application that allows users to browse, search, and explore travel accommodations and experiences. It features interactive listings with detailed information, images, and filtering options to help travelers find the perfect stay or activity. The platform aims to make travel planning seamless and visually engaging for users.',
+        tools: ['React', 'Tailwind CSS', 'Node.js', 'Express.js', 'MongoDB', 'REST API'],
+        code: 'https://github.com/Anubhav-Tomar/WanderLust',
+        role: '',
+        demo: 'https://wanderlust-0clx.onrender.com/listings',
+        image: '/image/projects/wanderlust.png',
+    },
+    {
+        id: 4,
+        name: 'Sorting Visualizer – Interactive Algorithm Visualization Tool',
+        description: 'An interactive web application that visually demonstrates how different sorting algorithms work in real time. Users can adjust array size and speed to better understand algorithms like Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, and Quick Sort—making learning data structures and algorithms more intuitive and engaging.',
+        tools: ['HTML5', 'CSS', 'JavaScript'],
+        code: 'https://github.com/Anubhav-Tomar/Sorting-Visualizer',
+        demo: 'https://anubhav-tomar.github.io/Sorting-Visualizer/',
+        role: '',
+        image: '/image/projects/sorting-visualizer.png',
+    }
+];

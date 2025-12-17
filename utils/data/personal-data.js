@@ -1,0 +1,18 @@
+export const personalData = {
+  name: "Anubhav Tomar",
+  profile: '/image/profile.png',
+  designation: "Software Developer",
+  description: "My name is Anubhav Tomar. I am an enthusiastic programmer with a passion for learning and exploring new technologies. I’m a quick learner with a self-driven attitude, always eager to solve problems. I enjoy working with various web development stacks and aim to make the web more accessible. I am open to any job opportunities that align with my skills and interests.",
+  email: 'anubhavtomar35@gmail.com',
+  phone: '+91 7906648651',
+  address: 'Meerut, Uttar Pradesh, India',
+  addressLink: 'https://www.google.com/maps/place/Meerut,+Uttar+Pradesh,+India',
+  github: 'https://github.com/Anubhav-Tomar',
+  facebook: "https://www.facebook.com/profile.php?id=100009069817922",
+  linkedIn: 'https://www.linkedin.com/in/anubhav-tomar-b73b3825b/',
+  twitter: 'https://x.com/anubhav__tomar',
+  stackOverflow: "https://stackoverflow.com/users/28064467/anubhav-tomar",
+  leetcode: "https://leetcode.com/u/Anubhav_Tomar/",
+  devUsername: "anubhavtomar",
+  resume: "https://drive.google.com/file/d/1hEK1tyKrE2sO5Fdw6vTGHUj-Ryc0NyPn/view?usp=share_link",
+};
